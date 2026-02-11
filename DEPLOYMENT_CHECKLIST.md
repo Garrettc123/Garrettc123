@@ -32,6 +32,9 @@
 - [ ] Add deployment SSH keys
 - [ ] Add API keys (OpenAI, etc.)
 - [ ] Add database credentials (encrypted)
+- [ ] Define secrets API implementation plan (SECRETS_API.md)
+- [ ] Implement secrets API with versioning, audit logs, and rotation
+- [ ] Enable non-human secret placement via OIDC/service identities
 - [ ] Configure Dependabot for dependency updates
 - [ ] Enable secret scanning
 - [ ] Enable security advisories

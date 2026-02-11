@@ -139,6 +139,7 @@ Looking for $2-5M to fund:
 ### Strategy & Planning
 - **[GITHUB_STRATEGY.md](./GITHUB_STRATEGY.md)** - Master business consolidation plan
 - **[DEPLOYMENT_CHECKLIST.md](./DEPLOYMENT_CHECKLIST.md)** - Phase-by-phase implementation roadmap
+- **[SECRETS_API.md](./SECRETS_API.md)** - Secrets API implementation & non-human placement
 - **[MONETIZATION.md](./MONETIZATION.md)** - NWU Protocol revenue streams
 - **[BUSINESS_PLAN.md](./BUSINESS_PLAN.md)** - Enterprise Platform business model
 
